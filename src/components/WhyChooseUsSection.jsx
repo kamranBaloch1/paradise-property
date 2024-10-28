@@ -7,7 +7,7 @@ const WhyChooseUsSection = () => {
       <div className="container mx-auto px-6 md:px-12">
         <h2 className="text-4xl font-bold text-gray-800 text-center mb-8">Why Choose Paradise Property?</h2>
         <p className="text-lg text-gray-600 leading-relaxed max-w-3xl mx-auto text-center mb-12">
-          We understand that buying or selling a property is one of the most significant decisions you'll make.
+          We understand that buying or selling a property is one of the most significant decisions you&apos;ll make.
           Our team is dedicated to providing a seamless and transparent experience with expert guidance every step of the way.
         </p>
         
