@@ -2,7 +2,6 @@ import Link from "next/link";
 import React from "react";
 import {
   FaFacebookF,
-  FaTwitter,
   FaInstagram,
   FaLinkedinIn,
   FaPhoneAlt,
@@ -20,7 +19,7 @@ const Footer = () => {
             <h3 className="text-xl font-bold mb-4">About Paradise Property</h3>
             <p className="text-white">
               At Paradise Property, we specialize in providing the best real
-              estate services. Whether you're buying, selling, or renting, we
+              estate services. Whether you&apos;re buying, selling, or renting, we
               are here to guide you every step of the way.
             </p>
           </div>

@@ -93,7 +93,7 @@ const GIEDA = () => {
           </ul>
         </div>
 
-        {/* Right Side  img */}
+        {/* Right Side img */}
         <div className="relative group">
           <Image
             src={Img3}
@@ -111,9 +111,9 @@ const GIEDA = () => {
         <div className="space-y-6">
           <h2 className="text-4xl font-bold text-gray-900">Location Map</h2>
           <p className="text-lg text-gray-700 leading-8">
-            Discover the Gwadar Industrial Estate's strategic location, offering
-            seamless connectivity to key regional and national hubs. Positioned
-            in a rapidly developing area, it’s ideal for businesses and
+            Discover the Gwadar Industrial Estate&apos;s strategic location,
+            offering seamless connectivity to key regional and national hubs.
+            Positioned in a rapidly developing area, it&apos;s ideal for businesses and
             investors looking for growth opportunities. Below, you can explore a
             visual representation of the area's layout and landmarks.
           </p>
