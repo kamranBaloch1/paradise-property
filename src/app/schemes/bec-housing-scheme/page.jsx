@@ -22,7 +22,8 @@ const BECHS = () => {
 
         {/* Right Side - Main Text Content */}
         <div className="flex flex-col justify-center space-y-6">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900"></h2>
+       
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900">BECHS Project Gwadar</h2>
           <p className="text-base md:text-lg text-gray-700 leading-8">
             BECHS Gwadar (Balochistan Employees Cooperative Housing Scheme) is
             located at Janubi Ankara after Golden Palm Housing Scheme Gwadar. It
